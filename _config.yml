@@ -1,0 +1,39 @@
+# Site Settings
+title: Emanuel Maracajá
+url: 'http://webjeda.com'
+baseurl: '/online-cv' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Emanuel Maracajá
+tagline: Maîtrise en Efficacité Énergétique et Énergies Renouvelables
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: <p align="justify">Je suis passioné par le domaine des énergies renouvelables et efficacité énergétique. Dans le domaine des énergies renouvelables, je m'intéresse notamment à l'énergie solaire. Par conséquent, j'ai décidé de continuer mes études dans le domaine après avoir obtenu mon baccaleauréat en Génie Mécanique. Lors du cours d'efficacité énergétique à l'ÉTS, j'ai développé un projet portant sur la simulation énergétique et mesures d'efficacité énergétique pour un bâtiment commercial. Ce projet m'a permis de développer mes compétences sur les logiciels DOE-2 et SIMEB. J'ai réalisé un stage portant sur la conception et développement de thermopompes et refroidisseurs en France, Montpellier. Ce projet consistait à recueillir les besoins des clients et dimensionner les composantes en conséquence. J'ai de l'expérience dans le domaine de l'analyse des données pour la prise des décisions.
+
+ </p>
+
+
+
+#sidebar links
+email: emanuel.ferreira-maracaja.1@ens.etsmtl.ca
+phone: +1 (438) 345-3241
+website: efmaracaja.github.io #do not add http://
+linkedin: emanuel-maracaja
+github: efmaracaja
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

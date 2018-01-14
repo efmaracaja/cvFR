@@ -1,0 +1,16 @@
+{% if site.data.educations %}
+<div class="education-container container-block">
+
+  <h2 class="container-block-title">Formation</h2>
+
+  {% for education in site.data.educations %}
+    <div class="item">
+      <h3 class="degree">{{ education.degree }}</h3>
+      <h6 class="meta"><a href="{{ education.link }}">{{ education.university }}</a></h6>
+
+      <div class="time">{{ education.time }}</div>
+    </div><!--//item-->
+  {% endfor %}
+
+</div><!--//education-container-->
+{% endif %}

@@ -1,0 +1,26 @@
+- project:
+  title: Analyse de faisabilité d'un système photovoltaïque
+  link: "#hook"
+  tagline: "<li>Modéliser les besoins en électricité du bâtiment à l'aide de SIMEB</li>
+            <li>Dimensionner le système photovoltaïque</li>
+            <li>Calculer les indicateurs économiques du projet</li>"
+- project:
+  title: Étude d'efficacité énergétique d'un bâtiment institutionnel
+  link: "#"
+  tagline: "<li>Optimiser les systèmes mécaniques et l’enveloppe du bâtiment</li>
+            <li>Effectuer une analyse paramétrique à l'aide de DOE-2.2</li>
+            <li>Appliquer les mesures d'efficacité énergétique</li>"
+- project:
+  title: Gestion de projet
+  link: "#"
+  tagline: "<li>Développer les gabarits de suivi du projet</li>
+            <li>Élaborer l'échéancier et les couts du projet</li>" 
+- project:
+  title: Développement d'un code sur EES pour le dimensionnement de refroidisseurs 
+  link: "#"
+  tagline: "<li>Modéliser les composantes</li>
+            <li>Effectuer l’analyse énergétique (thermodynamique) des machines</li>" 
+
+
+
+
