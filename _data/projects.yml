@@ -1,6 +1,12 @@
 - project:
+  title: Analyse énergétique et modélisation du réseau hydronique de la Maison des Étudiants (ÉTS)
+  link: "#"
+  tagline: "<li>Évaluer la performance des équipements à travers l’analyse des données du BAS</li>
+            <li>Proposer des améliorations pour les séquences de contrôle</li>
+            <li>Modéliser le système sur TRNSYS pour simuler les mesures d’efficacité énergétique</li>"
+- project:
   title: Analyse de faisabilité d'un système photovoltaïque
-  link: "#hook"
+  link: "#"
   tagline: "<li>Modéliser les besoins en électricité du bâtiment à l'aide de SIMEB</li>
             <li>Dimensionner le système photovoltaïque</li>
             <li>Calculer les indicateurs économiques du projet</li>"
@@ -20,7 +26,3 @@
   link: "#"
   tagline: "<li>Modéliser les composantes</li>
             <li>Effectuer l’analyse énergétique (thermodynamique) des machines</li>" 
-
-
-
-
